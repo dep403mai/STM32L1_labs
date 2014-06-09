@@ -6,12 +6,10 @@ List of labs:
 --------------
 Student's labs for STM32L-Discovery  
 It's repo of source code for labs at department 403 MAI  
+
 1. [The first project. Flashing diodes]
-
 2. [Working with liquid crystal display (LCD)]
-
 3. [Touch panel and interrupts]
-
 4. Creating a game
 
 Requirements
@@ -26,8 +24,8 @@ Unfortunately IAR isn't a port for Linux. If you are on Linux, use Eclipse and A
 
 Pull request information
 ---------
-1. You have to add source file into folder of your group
 
+1. You have to add source file into folder of your group
 2. You have to add filename extension! (.c, .txt, etc)
 
 If you find a bug, [create a new issue]
