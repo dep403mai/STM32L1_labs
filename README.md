@@ -4,8 +4,6 @@ This repository contains all the demo source code from the book. 3 lab works are
 
 List of labs:
 --------------
-Student's labs for STM32L-Discovery  
-It's repo of source code for labs at department 403 MAI  
 
 1. [The first project. Flashing diodes]
 2. [Working with liquid crystal display (LCD)]
